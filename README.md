@@ -30,7 +30,7 @@ Este projeto é uma aplicação web que oferece uma interface amigável para bus
 
 ### 🔗 Link para o Projeto
 
-👉 [Ver Projeto ao Vivo](https://maike-simoncini.github.io/Plantas-Medicinais/) 👈
+👉 [Ver Projeto ao Vivo](https://maike-simoncini.github.io/web-search-interface/) 👈
 
 ### 📄 Licença
 
