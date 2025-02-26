@@ -8,7 +8,6 @@ function search() {
     }
 }
 
-// Permitir pesquisa ao pressionar "Enter"
 document.getElementById('searchInput').addEventListener('keypress', function (e) {
     if (e.key === 'Enter') {
         search();
